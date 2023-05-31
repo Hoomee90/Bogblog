@@ -2,7 +2,7 @@
 
 #### By **Samantha Callie**, inspired by the work of tactfulGnostalgic
 
-#### A barebowns mockup of what a blog would like
+#### A barebones mockup of what a blog would like
 
 ## Technologies Used
 
