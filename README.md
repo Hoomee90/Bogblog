@@ -10,7 +10,7 @@
 
 ## Description
 
-This markdown file is basically just a creative writing project/
+This markdown file is basically just a creative writing project
 
 ## Setup/Installation Requirements
 
